@@ -1,3 +1,3 @@
-import plugin from './template.plugin'
+import logic from './template.plugin'
 
-export default plugin
+export default logic

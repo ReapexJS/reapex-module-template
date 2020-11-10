@@ -1,5 +1,5 @@
 {
-  "name": "reapex-plugin-template",
+  "name": "reapex-module-template",
   "version": "1.0.0",
   "description": "reapex plugin template",
   "main": "lib/index.js",

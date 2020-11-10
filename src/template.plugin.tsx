@@ -1,5 +1,5 @@
 import { App } from 'reapex'
 
-const plugin = (app: App) => {}
+const logic = (app: App) => {}
 
-export default plugin
+export default logic
